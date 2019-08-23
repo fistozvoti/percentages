@@ -1,0 +1,54 @@
+html,
+body {
+  /* background: url(naruto-team-seven.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */ 
+  text-align: center;  
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  font-size: 100%;
+}
+* {
+  font-size: large;
+  font-family: Impact;
+  color: black;
+  line-height: 1.5;
+}
+h1 {
+  font-size: xx-large;
+}
+button {
+	font-size: 1em;
+	border-radius: 0.3em;
+	width: 5em;
+}
+.showResults {
+  display: inline-block;
+  background-color: white;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding : 1em;
+  text-align: center;
+  font-weight: bold;
+}
+.message {
+  color: red;
+}
+.enterName {
+  width: 500px;
+  height: 50px;
+  border: solid black 2px;
+  padding: 5px;
+}
+.enterPercentage {
+    width: 100px;
+    height: 50px;
+    border: solid black 2px;
+    padding: 5px;
+  }
