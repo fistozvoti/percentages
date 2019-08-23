@@ -17,9 +17,9 @@ function MarkPercentages() {
         if (percent < 50) {
             return name + ", You Failed! Bettter luck next time.";
         }
-        else if(percent === 50){
-            return "Yey wena, " + name + " watchout! You should pull those socks up"
-        }
+        // else if(percent === 50){
+        //     return "Yey wena, " + name + " watchout! You should pull those socks up"
+        // }
         
         
     }
